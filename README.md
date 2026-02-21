@@ -36,15 +36,15 @@ Un script inteligente escrito en Python que limpia y organiza automáticamente c
 
 **Requisitos previos:** Tener [Python 3](https://www.python.org/downloads/) instalado. No se necesitan librerías externas (`pathlib` y `shutil` vienen incluidas por defecto).
 
-1. Descarga el archivo `ordenar.py`.
+1. Descarga el archivo `Ordenar.py`.
 2. Coloca el archivo dentro de la carpeta que deseas limpiar.
 3. Ejecuta el script:
 
-   **Opción A — Doble clic** *(Windows)*: haz doble clic sobre `ordenar.py`.
+   **Opción A — Doble clic** *(Windows)*: haz doble clic sobre `Ordenar.py`.
 
    **Opción B — Terminal**:
    ```bash
-   python ordenar.py
+   python Ordenar.py
    ```
 
 4. ¡Listo! Revisa tus carpetas del sistema, todo estará organizado. 🎉
